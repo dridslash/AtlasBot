@@ -1,0 +1,1 @@
+"""Package containing all cogs for the bot."""

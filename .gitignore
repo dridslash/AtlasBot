@@ -1,0 +1,14 @@
+#Python Virtual Enivroment
+atlas_env
+
+#Private Env
+app/config/.env
+
+#Pycache
+__pycache__
+app/__pycache__
+app/config/__pycache__
+app/cogs/__pycache__
+app/classes/__pycache__
+
+.vscode
